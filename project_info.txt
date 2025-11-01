@@ -1,0 +1,1 @@
+This is the project file checking purpose for git adding in the main branch is working or not
